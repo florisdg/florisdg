@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Floris. I like to build apps with good design and performance.
 
 <!--
 **florisdg/florisdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
