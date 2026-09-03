@@ -2,7 +2,8 @@ Hi, I'm Floris. I like to build apps with good design and performance.
 
 
 ### Experience
-current:  [tenpu.eu](https://tenpu.eu)  
+2026 - onwards:  Looking for a new position!  
+2025 - 2026:  [tenpu.eu](https://tenpu.eu)  
 2020 - 2025: [spotr.ai](https://spotr.ai)  
 <!--
 **florisdg/florisdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
