@@ -1,8 +1,7 @@
-Hi, I'm Floris. I like to build apps with good design and performance.
+Hi, I'm Floris 👋
 
 
 ### Experience
-2026 - onwards:  Looking for a new position!  
 2025 - 2026:  [tenpu.eu](https://tenpu.eu)  
 2020 - 2025: [spotr.ai](https://spotr.ai)  
 <!--
